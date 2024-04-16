@@ -8,8 +8,8 @@
 	}
 	"LightHUD"
 	{
-		"label"									"LightHUD"
-		"command"								"engine con_enable 1; toggleconsole; echo LightHUD by Hypnotize"
+		"label"									"technoyura"
+		"command"								"engine con_enable 1; toggleconsole; clear; echo technoyura; echo original hud by weareallimaginary; echo slightly edited by techno; echo github.com/TechnoSL/technoyura"
 	}
 	"Servers"
 	{

@@ -2,7 +2,7 @@
 {
 	"Colors"
 	{
-		"Main"												"146 107 255 255" //80 175 115
+		"Main"												"146 107 255 255" //146 107 255
 		"Low"												"225 75 75 255"
 
 		"Orange"											"146 107 255 255"
@@ -37,12 +37,12 @@
 		"Yellow"											"225 220 220 255"
 		"TransparentYellow"									"225 220 220 255"
 		"BrightYellow"										"255 255 0 255"
-		"GreenSolid"										"80 175 115 255"
+		"GreenSolid"										"146 107 255 255"
 
 		"Black"												"0 0 0 255"
 		"TransparentBlack"									"0 0 0 200"
 		"TransparentLightBlack"								"0 0 0 100"
-		"FooterBGBlack"										"32 31 30 255"
+		"FooterBGBlack"										"0 0 0 255"
 
 		"HUDBlueTeam"										"115 150 170 255"
 		"HUDRedTeam"										"190 60 60 255"
@@ -55,9 +55,9 @@
 		"HudBlack"											"21 20 19 255"
 		"ProgressBarBlue"									"91 122 142 255"
 
-		"CreditsGreen"										"75 140 100 255"
+		"CreditsGreen"										"100 80 255 255"
 
-		"Gray"												"150 152 157 255"
+		"Gray"												"0 0 0 255"
 
 		"Blank"												"0 0 0 0"
 
@@ -81,7 +81,7 @@
 		"TanDarker"											"30 30 30 255"
 
 		"StoreDarkTan"										"130 125 125 255"
-		"StoreGreen"										"50 112 73 255"
+		"StoreGreen"										"60 40 255 255"
 
 		"LowHealthRed"										"225 75 75 255"
 		"ProgressOffWhite"									"225 220 220 255"
@@ -114,22 +114,22 @@
 		"ItemFlags"											"225 220 220 255"
 		"ItemLimitedQuantity"								"225 209 0 255"
 
-		"QualityColorNormal"								"178 178 178 255"
-		"QualityColorrarity1"								"77 116 85 255"
-		"QualityColorrarity2"								"141 131 75 255"
-		"QualityColorrarity3"								"204 204 250 255"
-		"QualityColorrarity4"								"134 80 172 255"
-		"QualityColorVintage"								"71 98 145 255"
-		"QualityColorUnique"								"255 215 0 255"
-		"QualityColorCommunity"								"112 176 74 255"
-		"QualityColorDeveloper"								"165 15 121 255"
-		"QualityColorSelfMade"								"112 176 74 255"
-		"QualityColorCustomized"							"71 98 145 255"
-		"QualityColorStrange"								"207 106 50 255"
-		"QualityColorCompleted"								"134 80 172 255"
-		"QualityColorHaunted"								"56 243 171 255"
-		"QualityColorCollectors"							"170 0 0 255"
-		"QualityColorPaintkitWeapon"						"250 250 250 255"
+		"QualityColorNormal"	            				"222 222 222 255"
+		"QualityColorrarity1"			        			"60 163 115 255"
+		"QualityColorrarity2"           					"141 131 75 255"
+		"QualityColorrarity3"	              				"204 204 250 255"
+		"QualityColorrarity4"             					"112 57 203 255"
+		"QualityColorVintage"	                			"53 105 155 255"
+		"QualityColorUnique"	               				"239 174 40 255"
+		"QualityColorCommunity"		            			"112 176 74 255"
+		"QualityColorDeveloper"			        			"165 15 121 255"
+		"QualityColorSelfMade"		            			"112 176 74 255"
+		"QualityColorCustomized"		        			"71 98 145 255"
+		"QualityColorStrange"		            			"251 118 35 255"
+		"QualityColorCompleted"	               				"134 80 172 255"
+		"QualityColorHaunted"	              				"42 202 156 255"
+		"QualityColorCollectors"	            			"187 63 60 255"
+		"QualityColorPaintkitWeapon"		    			"250 250 250 255"
 
 		"ItemRarityDefault"									"131 126 119 255"
 		"ItemRarityCommon"									"176 195 217 255"
@@ -164,21 +164,21 @@
 		"QualityColorCollectors_GreyedOut"					"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"				"60 60 60 255"
 
-		"SaleGreen"											"80 175 115 255"
+		"SaleGreen"											"146 107 255 255"
 
-		"LightRed"											"80 175 115 255"
-		"LighterRed"										"80 175 115 255"
-		"LighterDarkBrown"									"72 71 70 255"
-		"DarkBrown"											"46 43 42 255"
+		"LightRed"											"146 107 255 255"
+		"LighterRed"										"146 107 255 255"
+		"LighterDarkBrown"									"0 0 0 255"
+		"DarkBrown"											"0 0 0 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"32 30 30 255"
 		"UpgradeArmedFg"									"225 220 220 255"
-		"UpgradeArmedBg"									"80 175 115 255"
+		"UpgradeArmedBg"									"146 107 255 255"
 		"UpgradeDepressedFg"								"32 30 30 255"
-		"UpgradeDepressedBg"								"80 175 115 255"
+		"UpgradeDepressedBg"								"146 107 255 255"
 		"UpgradeSelectedFg"									"32 30 30 255"
-		"UpgradeSelectedBg"									"80 175 115 255"
+		"UpgradeSelectedBg"									"146 107 255 255"
 		"UpgradeDisabledFg"									"32 30 30 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}
@@ -820,7 +820,7 @@
 		{
 			"1"
 			{
-				"name"										"Heebo Icons"
+				"name"										"OCRAStd"
 				"tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -896,7 +896,7 @@
 			"1"
 			{
 				"name"										"OCRAStd"
-				"tall"										"9"
+				"tall"										"10"
 				"antialias"									"1"
 			}
 		}
@@ -905,7 +905,7 @@
 			"1"
 			{
 				"name"										"OCRAStd"
-				"tall"										"12"
+				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
@@ -914,7 +914,7 @@
 			"1"
 			{
 				"name"										"OCRAStd"
-				"tall"										"18"
+				"tall"										"12"
 				"antialias"									"1"
 			}
 		}
@@ -923,7 +923,7 @@
 			"1"
 			{
 				"name"										"OCRAStd"
-				"tall"										"7"
+				"tall"										"9"
 				"antialias"									"1"
 			}
 		}
@@ -950,7 +950,7 @@
 			"1"
 			{
 				"name"										"OCRAStd"
-				"tall"										"11"
+				"tall"										"10"
 				"antialias"									"1"
 			}
 		}
@@ -959,7 +959,7 @@
 			"1"
 			{
 				"name"										"OCRAStd"
-				"tall"										"14"
+				"tall"										"11"
 				"antialias"									"1"
 			}
 		}
@@ -2389,145 +2389,7 @@
 			"font" "resource/fonts/OCRAStd.ttf"
 			"name" "OCRAStd"
 		}
-		"2"
-		{
-			"font" "resource/fonts/heeboicons.ttf"
-			"name" "Heebo Icons"
-
-			"arabic"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"brazilian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"bulgarian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"czech"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"danish"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"dutch"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"english"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"finnish"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"french"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"german"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"greek"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"hebrew"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"hungarian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"italian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"japanese"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"korean"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"koreana"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"latvian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"lithuanian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"norwegian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"pirate"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"polish"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"portuguese"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"romanian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"russian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"schinese"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"slovak"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"spanish"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"swedish"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"tchinese"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"thai"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"turkish"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-			"ukrainian"
-			{
-				"range"		"0x021 0xFFFF"
-			}
-		}
-		"3"	{	"font" "resource/fonts/verdanabby.ttf"	"name" "verdanabby"	}
-		"4"	{	"font" "resource/fonts/pie.ttf"	"name" "pie"	}
+		"2"	{	"font" "resource/fonts/verdanabby.ttf"	"name" "verdanabby"	}
+		"3"	{	"font" "resource/fonts/pie.ttf"	"name" "pie"	}
 	}
 }

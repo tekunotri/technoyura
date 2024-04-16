@@ -67,7 +67,7 @@
 			"sound_depressed"						"UI/buttonclick.wav"
 
 			"image_drawcolor"						"225 220 220 255"
-			"image_armedcolor"						"80 175 115 255"
+			"image_armedcolor"						"146 107 255 255"
 
 			"SubImage"
 			{
@@ -400,7 +400,7 @@
 			"textAlignment"							"center"
 			"Command"								"quit"
 			"proportionaltoparent"					"1"
-			"labeltext"								"QUIT"
+			"labeltext"								"qui"
 			"mouseinputenabled"						"1"
 			"keyboardinputenabled"					"0"
 			"actionsignallevel"						"2"
@@ -428,7 +428,7 @@
 			"textAlignment"							"center"
 			"Command"								"quit"
 			"proportionaltoparent"					"1"
-			"labeltext"								"LEAVE"
+			"labeltext"								"rq"
 			"mouseinputenabled"						"1"
 			"keyboardinputenabled"					"0"
 			"actionsignallevel"						"2"
@@ -479,7 +479,7 @@
 			"textAlignment"							"center"
 			"Command"								"find_game"
 			"proportionaltoparent"					"1"
-			"labeltext"								"PLAY"
+			"labeltext"								"ply"
 			"mouseinputenabled"						"1"
 			"keyboardinputenabled"					"0"
 			"actionsignallevel"						"2"

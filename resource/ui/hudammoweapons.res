@@ -14,11 +14,11 @@
 		"visible_minmode" "0"
 		"enabled"		"1"
 		"image"			"../vgui/replay/thumbnails/ammo_blue_bg1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		//"teambg_2"		"../vgui/replay/thumbnails/ammo_red_bg"
 		//"teambg_2_lodef"	"../vgui/replay/thumbnails/ammo_red_bg_lodef"
 		//"teambg_3"		"../vgui/replay/thumbnails/ammo_blue_bg"
-		//"teambg_3_lodef"	"../vgui/replay/thumbnails/ammo_blue_bg_lodef"			
+		//"teambg_3_lodef"	"../vgui/replay/thumbnails/ammo_blue_bg_lodef"
 	}
 	"HudWeaponLowAmmoImage"
 	{
@@ -33,11 +33,11 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../vgui/replay/thumbnails/ammo_red_bg"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../vgui/replay/thumbnails/ammo_red_bg"
 		"teambg_2_lodef"	"../vgui/replay/thumbnails/ammo_red_bg_lodef"
 		"teambg_3"		"../vgui/replay/thumbnails/ammo_blue_bg"
-		"teambg_3_lodef"	"../vgui/replay/thumbnails/ammo_blue_bg_lodef"			
+		"teambg_3_lodef"	"../vgui/replay/thumbnails/ammo_blue_bg_lodef"
 	}
 	"AmmoInClip"
 	{
@@ -46,23 +46,23 @@
 		"font"			"HudFontGiantBold"
 		"font_minmode"			"pie20"
 		"fgcolor"		"TanLight"
-		"fgcolor_minmode"			"237 187 220 255"	
+		"fgcolor_minmode"			"237 187 220 255"
 		"xpos"			"-2"
-		
+
 		"ypos"			"0"
 		"ypos_minmode"			"c60"
-		"textAlignment_minmode"	"center"	
+		"textAlignment_minmode"	"center"
 		"xpos_minmode"			"cs-0.5"
 		"zpos"			"5"
 		"wide"			"65"
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"	
-		
+		"textAlignment"	"south-east"
+
 		"labelText"		"%Ammo%"
-		
-	}		
+
+	}
 	"AmmoInClipShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -77,14 +77,14 @@
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"	
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
 		"labelText_minmode"		"/"
 		"ypos_minmode"			"c60"
-		"textAlignment_minmode"	"center"	
+		"textAlignment_minmode"	"center"
 		"xpos_minmode"			"cs-0.5"
-		
-	}						
+
+	}
 	"AmmoInReserve"
 	{
 		"ControlName"	"CExLabel"
@@ -101,10 +101,10 @@
 		"tall_lodef"	"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-west"		
+		"textAlignment"	"south-west"
 		"labelText"		"%AmmoInReserve%"
 		"xpos_minmode"	"9999"
-	}		
+	}
 	"AmmoInReserveShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -121,49 +121,45 @@
 		"tall_lodef"	"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-west"		
+		"textAlignment"	"south-west"
 		"labelText"		"%AmmoInReserve%"
 		"xpos_minmode"	"9999"
-	}									
+	}
 	"AmmoNoClip"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"TanLight"
-		"xpos"			"0"
+		"xpos"			"-5"
 		"ypos"			"2"
 		"zpos"			"5"
-		"wide"			"94"
-		"wide_lodef"	"83"
+		"wide"			"100"
+		"wide_lodef"	"100"
 		"tall"			"50"
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-		
-	}	
+
+	}
 	"AmmoNoClipShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
-		"xpos"			"1"
-		"xpos_hidef"	"2"
-		"xpos_lodef"	"2"
-		"ypos"			"3"
-		"ypos_hidef"	"4"
-		"ypos_lodef"	"4"
+		"xpos"			"-1"
+		"ypos"			"-1"
 		"zpos"			"5"
-		"wide"			"94"
-		"wide_lodef"	"83"
+		"wide"			"100"
+		"wide_lodef"	"100"
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-		
-	}									
+		"pin_to_sibling"	"AmmoNoClip"
+	}
 }

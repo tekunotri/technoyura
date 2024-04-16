@@ -164,15 +164,23 @@
 
 	//==================================================================================================================================================
 	// STATUS ICONS ANCHOR
+<<<<<<< HEAD
+	// Moves all the status icons at the same time
+=======
+>>>>>>> ddcb61af17e0240bc1d3cff57dbe7c594bc2012c
 	//==================================================================================================================================================
 	"PlayerStatusAnchor"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PlayerStatusAnchor"
 		"xpos"										"25"
+<<<<<<< HEAD
+		"ypos"										"-50"
+=======
 		"xpos_minmode"								"47"
 		"ypos"										"-50"
 		"ypos_minmode"								"40"
+>>>>>>> ddcb61af17e0240bc1d3cff57dbe7c594bc2012c
 		"wide"										"0"
 		"tall"										"80"
 		"visible"									"1"
