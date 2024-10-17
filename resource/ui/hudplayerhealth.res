@@ -67,8 +67,8 @@
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
 		"xpos_minmode"	"cs-0.5"
-		"ypos"			"r52"
-		"ypos_minmode"			"c62"
+		"ypos"			"r53"
+		"ypos_minmode"			"c61"
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"18"
@@ -127,20 +127,20 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
-	"mayura"
+	"ilias"
 	{
 		"ControlName"	"CTFImagePanel"
-		"fieldName"		"mayura"
+		"fieldName"		"ilias"
 		"xpos"			"3"		[$WIN32]
 		"xpos_minmode"	"-1511"		[$WIN32]
 		"ypos"			"r115"	[$WIN32]
-		"zpos"			"6"
+		"zpos"			"3"
 		"wide"			"100"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"replay/thumbnails/mayura"
+		"image"			"replay/thumbnails/ilias"
 
 	}
 	"bgz"
@@ -164,23 +164,14 @@
 
 	//==================================================================================================================================================
 	// STATUS ICONS ANCHOR
-<<<<<<< HEAD
 	// Moves all the status icons at the same time
-=======
->>>>>>> ddcb61af17e0240bc1d3cff57dbe7c594bc2012c
 	//==================================================================================================================================================
 	"PlayerStatusAnchor"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PlayerStatusAnchor"
 		"xpos"										"25"
-<<<<<<< HEAD
 		"ypos"										"-50"
-=======
-		"xpos_minmode"								"47"
-		"ypos"										"-50"
-		"ypos_minmode"								"40"
->>>>>>> ddcb61af17e0240bc1d3cff57dbe7c594bc2012c
 		"wide"										"0"
 		"tall"										"80"
 		"visible"									"1"

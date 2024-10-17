@@ -66,8 +66,8 @@
 		"image"			"replay/thumbnails/mod"
 		"scaleImage"	"1"
 		"alpha"			"255"
-		"drawcolor"			"220 220 220 255"
-		"drawcolor_minmode"			"237 187 220 255"
+		"drawcolor"			"Main"
+		"drawcolor_minmode"			"Main"
 		"pin_to_sibling"	"ItemEffectMeter"
 	}
 

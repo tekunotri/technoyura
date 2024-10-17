@@ -63,7 +63,7 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
-		"image"										"replay/thumbnails/mayurabg"
+		"image"										"replay/thumbnails/iliasbg"
 		"scaleImage"								"1"
 	}
 	"Notifications_ShowButtonPanel"
@@ -217,14 +217,14 @@
 		"enabled"									"1"
 		"image"										"replay/thumbnails/character_red_bg1"
 	}
-	"mayuraa"
+	"iliasprl"
 	{
 		"ControlName"								"ImagePanel"
-		"fieldName"									"mayuraa"
+		"fieldName"									"iliasprl"
 		"xpos"										"9999"
 		"visible"									"1"
 		"enabled"									"1"
-		"image"										"replay/thumbnails/mayura"
+		"image"										"replay/thumbnails/ilias"
 	}
 	"modulatetest"
 	{

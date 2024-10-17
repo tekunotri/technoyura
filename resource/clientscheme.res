@@ -2,13 +2,13 @@
 {
 	"Colors"
 	{
-		"Main"												"146 107 255 255" //146 107 255
+		"Main"												"255 255 232 255" //146 107 255
 		"Low"												"225 75 75 255"
 
-		"Orange"											"146 107 255 255"
-		"OrangeDim"											"146 107 255 255"
-		"LightOrange"										"146 107 255 255"
-		"TFOrange"											"146 107 255 255"
+		"Orange"											"255 255 232 255"
+		"OrangeDim"											"255 255 232 255"
+		"LightOrange"										"255 255 232 255"
+		"TFOrange"											"255 255 232 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -37,7 +37,7 @@
 		"Yellow"											"225 220 220 255"
 		"TransparentYellow"									"225 220 220 255"
 		"BrightYellow"										"255 255 0 255"
-		"GreenSolid"										"146 107 255 255"
+		"GreenSolid"										"255 255 232 255"
 
 		"Black"												"0 0 0 255"
 		"TransparentBlack"									"0 0 0 200"
@@ -55,7 +55,7 @@
 		"HudBlack"											"21 20 19 255"
 		"ProgressBarBlue"									"91 122 142 255"
 
-		"CreditsGreen"										"100 80 255 255"
+		"CreditsGreen"										"255 255 232 255"
 
 		"Gray"												"0 0 0 255"
 
@@ -81,7 +81,7 @@
 		"TanDarker"											"30 30 30 255"
 
 		"StoreDarkTan"										"130 125 125 255"
-		"StoreGreen"										"60 40 255 255"
+		"StoreGreen"										"255 255 232 255"
 
 		"LowHealthRed"										"225 75 75 255"
 		"ProgressOffWhite"									"225 220 220 255"
@@ -164,21 +164,21 @@
 		"QualityColorCollectors_GreyedOut"					"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"				"60 60 60 255"
 
-		"SaleGreen"											"146 107 255 255"
+		"SaleGreen"											"255 255 232 255"
 
-		"LightRed"											"146 107 255 255"
-		"LighterRed"										"146 107 255 255"
+		"LightRed"											"255 255 232 255"
+		"LighterRed"										"255 255 232 255"
 		"LighterDarkBrown"									"0 0 0 255"
 		"DarkBrown"											"0 0 0 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"32 30 30 255"
 		"UpgradeArmedFg"									"225 220 220 255"
-		"UpgradeArmedBg"									"146 107 255 255"
+		"UpgradeArmedBg"									"255 255 232 255"
 		"UpgradeDepressedFg"								"32 30 30 255"
-		"UpgradeDepressedBg"								"146 107 255 255"
+		"UpgradeDepressedBg"								"255 255 232 255"
 		"UpgradeSelectedFg"									"32 30 30 255"
-		"UpgradeSelectedBg"									"146 107 255 255"
+		"UpgradeSelectedBg"									"255 255 232 255"
 		"UpgradeDisabledFg"									"32 30 30 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}
@@ -429,7 +429,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"20"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -439,7 +439,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -448,7 +448,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -467,7 +467,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 				"additive"									"1"
@@ -477,7 +477,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -486,7 +486,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -495,7 +495,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"46"
 				"antialias"									"1"
 			}
@@ -504,7 +504,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"35"
 				"antialias"									"1"
 			}
@@ -513,7 +513,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"35"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -523,7 +523,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"36"
 				"antialias"									"1"
 			}
@@ -532,7 +532,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"30"
 				"antialias"									"1"
 			}
@@ -541,7 +541,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"30"
 				"antialias"									"1"
 			}
@@ -550,7 +550,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -559,7 +559,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -568,7 +568,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -577,7 +577,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -586,7 +586,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -595,7 +595,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -604,7 +604,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -613,7 +613,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -622,7 +622,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"16"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -632,7 +632,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -641,7 +641,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -651,7 +651,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -660,7 +660,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -670,7 +670,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -679,7 +679,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -688,7 +688,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -697,7 +697,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -706,7 +706,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -715,7 +715,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"6"
 				"antialias"									"1"
 			}
@@ -763,7 +763,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -782,7 +782,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -791,7 +791,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -800,7 +800,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"14"
 				"range"										"0x0000 0x007F"
 				"antialias"									"1"
@@ -810,7 +810,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
 				"antialias"									"1"
@@ -820,7 +820,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -831,7 +831,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"16"
 				"dropshadow"								"1"
 				"antialias"									"1"
@@ -841,7 +841,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -850,7 +850,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -859,7 +859,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -868,7 +868,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -886,7 +886,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -895,7 +895,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -904,7 +904,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -913,7 +913,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -922,7 +922,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -931,7 +931,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -940,7 +940,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -949,7 +949,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -958,7 +958,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -967,7 +967,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -976,7 +976,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias"									"1"
@@ -986,7 +986,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"7"
 				"antialias"									"1"
 			}
@@ -995,7 +995,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1006,7 +1006,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"7"
 				"antialias"									"1"
 			}
@@ -1015,7 +1015,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1024,7 +1024,7 @@
 		{
 			"13"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1033,7 +1033,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -1042,7 +1042,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -1051,7 +1051,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1060,7 +1060,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1069,7 +1069,7 @@
 		{
 			"3"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1078,7 +1078,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"13"
 				"antialias"									"1"
 			}
@@ -1087,7 +1087,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -1096,7 +1096,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -1105,7 +1105,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -1114,7 +1114,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -1123,7 +1123,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -1132,7 +1132,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 				"italic"									"1"
@@ -1142,7 +1142,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -1151,7 +1151,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -1160,7 +1160,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -1169,7 +1169,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -1178,7 +1178,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"11"
 				"blur"										"3"
 				"additive"									"1"
@@ -1189,7 +1189,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -1199,7 +1199,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1210,7 +1210,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"7"
 				"antialias"									"1"
 			}
@@ -1219,7 +1219,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -1228,7 +1228,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -1237,7 +1237,7 @@
 		{
 			"1"
 			{
-				"name"										"OCRAStd"
+				"name"										"MS Gothic"
 				"tall"										"30"
 				"antialias"									"1"
 			}
@@ -2386,8 +2386,8 @@
 	{
 		"1"
 		{
-			"font" "resource/fonts/OCRAStd.ttf"
-			"name" "OCRAStd"
+			"font" "resource/fonts/msgothic.ttc"
+			"name" "MS Gothic"
 		}
 		"2"	{	"font" "resource/fonts/verdanabby.ttf"	"name" "verdanabby"	}
 		"3"	{	"font" "resource/fonts/pie.ttf"	"name" "pie"	}
