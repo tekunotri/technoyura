@@ -9,7 +9,7 @@
 	"LightHUD"
 	{
 		"label"									"technoyura"
-		"command"								"engine con_enable 1; toggleconsole; clear; echo technoyura; echo original hud by weareallimaginary; echo slightly edited by techno; echo github.com/TechnoSL/technoyura"
+		"command"								"engine con_enable 1; toggleconsole; clear; echo technoyura, ilias edition:tm:; echo original hud by weareallimaginary; echo slightly edited by techno; echo github.com/tekunotri/technoyura/tree/ilias"
 	}
 	"Servers"
 	{
