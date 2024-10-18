@@ -2,7 +2,7 @@
 {
 	"<dx90"
 	{
-		$outlinecolor "[1.0 1.0 1.0]"
+		$outlinecolor "[0.0 0.0 0.0]"
 		$outlinestart0 0.4
 		$outlinestart1 0.525
 		$outlineend0 0.525
@@ -25,7 +25,7 @@
 
 	// give it a white outline
 	$outline 1
-	$outlinecolor "[1.0 1.0 1.0]"
+	$outlinecolor "[0.0 0.0 0.0]"
 	$outlinestart0 0.3
 	$outlinestart1 0.49
 	$outlineend0 0.57

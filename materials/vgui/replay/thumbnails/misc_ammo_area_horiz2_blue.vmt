@@ -2,7 +2,7 @@
 {
 	"<dx90"
 	{
-		$outlinecolor "[1.0 1.0 1.0]"
+		$outlinecolor "[0.0 0.0 0.0]"
 	}
 	
 	"$translucent" 1
